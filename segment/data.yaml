@@ -1,0 +1,5 @@
+train: C:\Users\aidan\OneDrive\Documents\uofc\enel645\ENEL645_Project_Group2\segment\car-license-plate-detection\train\images
+val: C:\Users\aidan\OneDrive\Documents\uofc\enel645\ENEL645_Project_Group2\segment\car-license-plate-detection\val\images
+
+nc: 1  # number of classes
+names: ['license_plate']
