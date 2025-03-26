@@ -1,5 +1,7 @@
-# Ignore the specific folder within the segment directory
+# Ignore dataset and cropped images (too large for github)
 segment/car-license-plate-detection/
+segment/cropped_images
+segment-env/
 
 # Ignore OS-specific files
 .DS_Store
@@ -7,6 +9,8 @@ Thumbs.db
 
 # Ignore log files
 *.log
+# Ignore zipped files
+*.zip
 
 # Ignore temporary files
 *.tmp
